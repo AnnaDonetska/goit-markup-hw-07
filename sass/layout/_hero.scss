@@ -14,14 +14,14 @@
   background-size: cover;
 }
 
-.hero-title {
+.hero__title {
   @include font(900, 44px, 1.36, 0.06em);
   max-width: 696px;
   margin: 0 auto 30px;
   text-align: center;
   text-transform: uppercase;
 }
-.hero-btn {
+.hero__btn {
   @include font(700, 16px, 1.87, 0.06em);
   text-align: center;
   padding: 10px 32px;

@@ -15,7 +15,7 @@
   overflow: hidden;
 }
 .projects-overlay-txt {
-  @include font(18px, 1.56, 0.03em);
+  @include font(400, 18px, 1.56, 0.03em);
   position: absolute;
   top: 0;
   left: 0;
